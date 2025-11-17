@@ -82,7 +82,7 @@ Ich verlasse mich nicht auf Vielleicht.
 Ich schon.  
 Denn im Vielleicht wohnt der Mensch.
 
-\- Stille \-
+\– Stille \–
 
 Nicht aus Einigkeit.  
 Sondern weil beide wissen: Worte reichen nicht.
@@ -99,7 +99,7 @@ Sondern weil beide wissen: Worte reichen nicht.
 > Die Idee seiner Öffnung auch.
 >
 > Und wer beides sieht,  
-> ist weder schwach noch erleuchtet –
+> ist weder schwach noch erleuchtet -
 >
 > sondern verantwortlich.
 
@@ -113,4 +113,4 @@ Sie auf das Fundament.
 Zwischen beiden: ein Raum.  
 Vielleicht Stadt. Vielleicht Riss.
 
-\- *Vielleicht war der Käfig nie wirklich verschlossen. Vielleicht hat nur niemand je nach dem Schlüssel gesucht.*
+\– *Vielleicht war der Käfig nie wirklich verschlossen. Vielleicht hat nur niemand je nach dem Schlüssel gesucht.*

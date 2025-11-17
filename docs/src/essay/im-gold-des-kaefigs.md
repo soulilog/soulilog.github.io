@@ -96,7 +96,7 @@ sondern nur übernommen haben.
 Und wenn wir –  
 unter dem Lärm des Alltags –  
 nie innehalten,  
-innehalten -  
+innehalten –  
 sie zu entschlüsseln,  
 setzen wir fort,  
 was uns selbst einmal gefehlt hat.
@@ -106,7 +106,7 @@ dem zu entkommen,
 was man Herkunft nennt,  
 endet oft schon am Anfang.  
 In einer Welt,  
-in der Bildung als Gut gehandelt wird -  
+in der Bildung als Gut gehandelt wird –  
 Perspektiven an Eigentum gekoppelt werden,  
 verkommen Moral und Würde zu Luxusgütern.
 
@@ -137,7 +137,7 @@ sondern aus Gewohnheit.
 Hineingeboren in Einfluss,  
 in ein Netz aus Erwartungen und Möglichkeiten,  
 so dicht geknüpft,  
-dass es kaum noch Raum lässt -  
+dass es kaum noch Raum lässt –  
 für Bewusstsein.
 
 Vielleicht könnten sie teilen.  
@@ -211,5 +211,5 @@ dass wir anders könnten.
 Nicht aus Hoffnung.  
 Aber aus Ahnung.
 
-Vielleicht genügt das -  
+Vielleicht genügt das –  
 für den Moment.

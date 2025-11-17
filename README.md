@@ -10,3 +10,4 @@ Repository for the website https://soulilog.github.io
 * [Artefakt des Untergangs](/docs/src/essay/artefakt-des-untergangs.md)  
 * [Azyklischer Ouroboros](/docs/src/essay/azyklischer-ouroboros.md)  
 * [Im Gold des Käfigs](/docs/src/essay/im-gold-des-kaefigs.md)  
+* [Derbes Verstummen](/docs/src/essay/derbes-verstummen.md)  

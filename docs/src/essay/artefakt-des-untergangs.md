@@ -92,7 +92,7 @@ Wenn das Ich nur noch Echo ist –
 gibt es dann noch ein Ich?
 
 ## Artefakt 119-A / 2.3.2.4 / Verhaltenssequenz
-*- moralische Dissoziation*
+*– moralische Dissoziation*
 
 Ich sehe eine Aufzeichnung:  
 Zwei junge Wesen.  
@@ -172,7 +172,7 @@ Vielleicht war ihr Fehler nicht ihr System,
 sondern ihre Gleichgültigkeit.
 
 ## Artefakt 119-A / 1.6.3.9 / Sekundärmaterial 
-*- fragmentarisch, visuell-auditiv*
+*– fragmentarisch, visuell-auditiv*
 
 > Schnittbilder.  
 > Überschriften.  
