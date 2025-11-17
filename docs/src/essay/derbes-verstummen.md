@@ -6,7 +6,7 @@ keywords: [ Kunstfreiheit, Zensur, Authentizität, Gesellschaft, Wandel, Relevan
 published_at: '2025-11-17T16:54Z'
 ---
 
-# Derbes verstummen
+# Derbes Verstummen
 *– Ein Dialog in einem fast leeren Theater*
 
 Leere Bühne.  
