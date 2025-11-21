@@ -73,7 +73,8 @@ Das war Kunst.
 *Bertolt:*  
 Und wer hat dir die Aufgabe gegeben?
 
-> Stille. S. schaut ins Leere.
+> Stille.  
+> S. schaut ins Leere.
 
 *S.:*  
 Das Publikum.  
@@ -127,7 +128,8 @@ was du vergessen hast:
 dass Kunst nicht Besitz ist,  
 sondern Bewegung.
 
-> S. geht einige Schritte. Die Bretter knarren.
+> S. geht einige Schritte.  
+> Die Bretter knarren.
 
 *S.:*  
 Und wenn sich alles bewegt –  
