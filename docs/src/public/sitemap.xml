@@ -69,4 +69,11 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+
+    <url>
+        <loc>https://soulilog.github.io/essay/emanzipiertes-spiegellabyrinth</loc>
+        <lastmod>2025-11-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
 </urlset>

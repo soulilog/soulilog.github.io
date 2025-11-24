@@ -31,7 +31,7 @@ und das nun für zwischenmenschliche Wahrheit halte.
 Vielleicht geht es nicht um Geschlechter.  
 Vielleicht nicht einmal um konkrete Menschen.  
 Vielleicht geht es um Rollen, die angenommen wurden,  
-lange bevor jemand "ich" sagen konnte.  
+lange bevor jemand „ich“ sagen konnte.  
 Ich frage mich,  
 ob ich zu oft Schatten für Wahrheit hielt,  
 weil ich es so brauchte.  
@@ -47,7 +47,7 @@ Was, wenn vieles in mir bloße Reaktion ist?
 Wiederholung,  
 Rückzug.  
 Vielleicht habe ich zu selten innegehalten.  
-Vielleicht war es einfacher, mich selbst zu "erklären", als mich zu befragen.  
+Vielleicht war es einfacher, mich selbst zu „erklären“, als mich zu befragen.  
 Ich frage mich,  
 ob ich in der Geschwindigkeit unserer Gegenwart nicht auch etwas verliere –  
 nämlich die Möglichkeit,  

@@ -8,7 +8,7 @@ published_at: '2025-11-21T07:58Z'
 
 # Secrets of Life
 
-\- Die Schattensonne trägt das Licht, das wir nicht ertragen könnten.
+– Die Schattensonne trägt das Licht, das wir nicht ertragen könnten.
 
 ## Early Dew
 

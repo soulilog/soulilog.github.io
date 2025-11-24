@@ -12,3 +12,4 @@ Repository for the website https://soulilog.github.io
 * [Im Gold des Käfigs](/docs/src/essay/im-gold-des-kaefigs.md)  
 * [Derbes Verstummen](/docs/src/essay/derbes-verstummen.md)  
 * [Secrets of Life](/docs/src/essay/secrets-of-life.md)  
+* [Emanzipiertes Spiegellabyrinth](/docs/src/essay/emanzipiertes-spiegellabyrinth.md)  
